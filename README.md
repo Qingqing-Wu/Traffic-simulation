@@ -15,14 +15,6 @@ This project simulates traffic flow on multi-lane roads using a cellular automat
 - `notebook_demo.ipynb`: interactive demo of the simulation
 - `requirements.txt`: dependencies for easy installation
 
-## 🚀 Quick Start
-
-```bash
-git clone https://github.com/yourusername/traffic-simulation.git
-cd traffic-simulation
-pip install -r requirements.txt
-jupyter notebook notebook_demo.ipynb
-```
 
 ## 📊 Example Visualization
 
